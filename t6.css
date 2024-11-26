@@ -1,0 +1,30 @@
+.header
+{
+    background-color: rgb(212, 233, 22);
+    height: 100px;
+    
+}
+
+body
+{
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+
+.article
+{
+    background-color: aliceblue;
+}
+
+.aside
+{
+    background-color: rgb(128, 131, 131);
+}
+
+.div
+{
+    margin-left: 300px;
+    margin-right: 300px;   
+
+}

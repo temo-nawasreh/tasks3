@@ -1,0 +1,19 @@
+body
+{
+  background-color: rgb(237, 49, 212);  
+}
+
+.h2,.h4,.t,.b
+{
+    color:aquamarine;
+}
+
+.j,.jj
+{
+    color: aquamarine;
+}
+
+.n
+{
+    color: blueviolet;
+}

@@ -1,0 +1,17 @@
+.d1 ,.d2 ,.d3
+{
+    border: 1px double  gray;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.d3 
+{
+    border: 1px dotted  red;
+}
+
+.sub
+{
+    border: 1px dotted  red;
+    color: red;
+}
