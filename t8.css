@@ -2,12 +2,38 @@ body{
     background-color: blueviolet;
 }
 
-.d1
+.d1 ,.d2,.d3,.d4,.d5
 {
     border: 1px solid gray;
-    border-radius: 25px;
-    width: 50%;
-    height: 150px;  
-   
+    width: 300px;
+    height: 100px;  
+    overflow: hidden;
     background-color: gray;
 }
+
+.div ,.div1
+{
+    display: flex;
+
+}
+
+.d2,.d3{
+    margin-left: 10px;
+}
+
+.d4{
+    margin-right: 10px;
+}
+
+.h1,.h2
+{
+    border: 1px solid black;
+    /*overflow: scroll;*/
+}
+
+.k{
+    overflow-y: scroll;
+    height: 100px;
+}
+
+
